@@ -1,5 +1,4 @@
 
-import java.util.Random;
 public class A_Hello_world {
 
     public static void main(String[] args) {
